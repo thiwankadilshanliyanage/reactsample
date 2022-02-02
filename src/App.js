@@ -1,5 +1,6 @@
 //import logo from './logo.svg';
-import './App.css';
+import './appp.css';
+import App2 from './App2';
 
 // function App() {
 //   return (
@@ -11,8 +12,9 @@ import './App.css';
 
 const App=()=>{
   return(
-    <div className='App'>
+    <div className='app'>
       <h2>Hey</h2>
+      <App2 />
     </div>
   );
 }

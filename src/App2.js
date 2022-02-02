@@ -1,14 +1,14 @@
  import './App.css';
 import React ,{ Component }  from "react";
-const app1=()=>{
+const App2=()=>{
     return(
       <div className='app2'>
-        <h2>Hey</h2>
+        <h2>Hello</h2>
       </div>
     );
   }
    
-  export default app1;
+  export default App2;
 
 
  
